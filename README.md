@@ -1,37 +1,43 @@
 # Hi, I'm Jayanth Kodur Kumar! 👋
 
-Welcome to my GitHub profile! I'm a passionate Software Engineer with a strong background in full-stack development and a keen interest in building scalable and efficient web applications. With experience across various technologies and a knack for problem-solving, I strive to deliver high-quality software solutions.
+Welcome to my GitHub profile! I'm a passionate Software Engineer with a focus on **full-stack development** and a strong background in building **scalable, high-performance web applications**. I love solving complex problems and delivering impactful solutions using modern technologies.
 
 ### 🚀 About Me
 - 🎓 **MS in Computer Science** from Indiana University - Bloomington (2022 - 2024)
-- 💻 Proficient in **JavaScript, Java, Python, TypeScript** and experienced with frameworks like **React.js, Next.js, Spring Boot, Node.js, Flask, Express**.
-- ⚙️ I’m skilled in database management, having worked with **MySQL, MongoDB, PostgreSQL, Firebase**.
-- 🛠️ Familiar with tools like **Git, Docker, CI/CD**, and testing frameworks to ensure reliable and maintainable code.
+- 💻 Proficient in **JavaScript, Java, Python, SQL**, with expertise in **React.js, React Native, Node.js, Next.js, Spring Boot**, and **Flask**
+- 🛠️ Experienced in database management using **MySQL, MongoDB, PostgreSQL, Firebase** and cloud services like **AWS (EC2, S3, Amplify)**
+- 📦 Skilled in containerization and DevOps tools such as **Docker**, **Git**, and **GitHub Actions**
 
 ### 💼 Work Experience
-- **Software Engineer - Intern** at **Olei Labs** (July 2024 - Present)
-  - Designed a robust relational model for a Clinic CRM, improving database efficiency and reliability.
-  - Enhanced data models by addressing critical edge cases during quality assurance.
+- **Software Engineer** at **Olei LLC** (Jul 2024 - Present)
+  - Leading end-to-end development of a clinic-based CRM using **Node.js**, **Express**, and **Sequelize**.
+  - Optimized database models and fixed critical edge cases, improving system reliability.
 
-- **Software Developer** at **Vugha Technological Solutions** (July 2021 - Jan 2022)
-  - Developed and deployed a web application for rental management, streamlining product operations.
-  - Collaborated with front-end teams to build reusable components and improve user navigation.
+- **Software Engineer** at **Vugha Technological Solutions** (Jul 2021 - Jan 2022)
+  - Deployed and developed a rental management application using **Next.js** and **Firebase Firestore**.
+  - Built over 10 reusable front-end components and contributed to improving user navigation across 20+ UI screens.
 
-- **Graduate Trainee** at **Kaar Technologies** (Sep 2020 - Feb 2021)
-  - Analyzed large datasets to boost inside-sales turnover and refined UI designs, increasing CTA rates by 30%.
+- **Trainee** at **Kaar Technologies** (Sep 2020 - Feb 2021)
+  - Analyzed datasets of over 10,000 leads, improving sales turnover through data-driven insights.
+  - Refined UI designs to boost CTA rates by 30%.
 
 ### 🌟 Featured Projects
 - **Finex**
-  - A full-stack web application for managing expenses using the MERN stack. Implemented JWT authentication and Docker for seamless deployment.
-
-- **IU Soccer Book**
-  - Simplified soccer field bookings with a secure and efficient full-stack application using Java, Spring Boot, and React.js.
-
-- **SkyTours**
-  - Developed an airline reservation system, leading a team to design and build a user-centric admin module and UI components.
+  - A full-stack expense management app built with the **MERN stack**. Implemented JWT-based authentication and containerized using **Docker** for streamlined deployment.
 
 - **Acquire Board Game**
-  - Automated gameplay logic for the Acquire board game, utilizing graph algorithms and game trees to enhance player engagement.
+  - Developed AI gameplay logic using **graph algorithms** and game trees, automating decision-making for an engaging board game experience.
+
+- **SkyTours**
+  - Built an airline reservation system with **React.js** and **Node.js**, leading a team of 3 to develop the user-centric admin module and streamline administrative tasks.
+
+ - **IU Soccer Book**
+    - Simplified soccer field bookings with a secure and efficient full-stack application using Java, Spring Boot, and React.js.
+
+- **DoubtsFlow**
+  - A cross-platform mobile app designed to reduce course doubt response times by **50%**, offering a more efficient solution than email systems created using **React Native** and integrated with **Firebase Firestore** and **Firebase Auth** for real-time data management and authentication.
+
+
 
 ### 📫 Get in Touch
 - **Email:** [jayanthkk1998@gmail.com](mailto:jayanthkk1998@gmail.com)
