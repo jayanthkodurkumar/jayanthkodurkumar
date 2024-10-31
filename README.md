@@ -10,14 +10,17 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a focus on
 
 ### 💼 Work Experience
 - **Software Engineer** at **Olei LLC** (Jul 2024 - Present)
-  - Leading end-to-end development of a clinic-based CRM using **Node.js**, **Express**, and **Sequelize**.
-  - Optimized database models and fixed critical edge cases, improving system reliability.
+  - Developed and maintained a member management application using **React.js**, **Supabase**, and **Material UI**.
+  - Refactored and optimized the codebase, improving performance, readability, and maintainability by 70%.
+  - Boosted the development speed by 50% using **TailwindCSS** and Material UI for faster, reusable styling.
+  - Designed and optimized the relational model for the user management module, ensuring database efficiency and structure.
+
 
 - **Software Engineer** at **Vugha Technological Solutions** (Jul 2021 - Jan 2022)
   - Deployed and developed a rental management application using **Next.js** and **Firebase Firestore**.
   - Built over 10 reusable front-end components and contributed to improving user navigation across 20+ UI screens.
 
-- **Trainee** at **Kaar Technologies** (Sep 2020 - Feb 2021)
+- **Market Research Analyst** at **Kaar Technologies** (Sep 2020 - Feb 2021)
   - Analyzed datasets of over 10,000 leads, improving sales turnover through data-driven insights.
   - Refined UI designs to boost CTA rates by 30%.
 
@@ -30,9 +33,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a focus on
 
 - **SkyTours**
   - Built an airline reservation system with **React.js** and **Node.js**, leading a team of 3 to develop the user-centric admin module and streamline administrative tasks.
-
- - **IU Soccer Book**
-    - Simplified soccer field bookings with a secure and efficient full-stack application using Java, Spring Boot, and React.js.
 
 - **DoubtsFlow**
   - A cross-platform mobile app designed to reduce course doubt response times by **50%**, offering a more efficient solution than email systems created using **React Native** and integrated with **Firebase Firestore** and **Firebase Auth** for real-time data management and authentication.
