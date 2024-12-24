@@ -41,6 +41,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a focus on
 
 ### 📫 Get in Touch
 - **Email:** [jayanthkk1998@gmail.com](mailto:jayanthkk1998@gmail.com)
-- **Portfolio:** [jayanthkkumar.netlify.app](https://jayanthkkumar.netlify.app/)
+- **Portfolio:** [jayanthkkumar.netlify.app](https://jayanth.io/)
 - **LinkedIn:** [Jayanth Kodur Kumar](https://www.linkedin.com/in/jayanth-kodur-kumar-460b55254/)
 - **GitHub:** [Jayanth Kodur Kumar](https://github.com/jayanthkodurkumar)
