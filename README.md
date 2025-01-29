@@ -4,25 +4,29 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a focus on
 
 ### 🚀 About Me
 - 🎓 **MS in Computer Science** from Indiana University - Bloomington (2022 - 2024)
-- 💻 Proficient in **JavaScript, Java, Python, SQL**, with expertise in **React.js, React Native, Node.js, Next.js, Spring Boot**, and **Flask**
-- 🛠️ Experienced in database management using **MySQL, MongoDB, PostgreSQL, Firebase** and cloud services like **AWS (EC2, S3, Amplify)**
+- 💻 Proficient in **JavaScript, Java, Python, SQL**, with expertise in **React.js, React Native, Node.js, Next.js**
+- 🛠️ Experienced in database management using **MySQL, MongoDB, PostgreSQL, Firebase** and cloud services like **AWS**
 - 📦 Skilled in containerization and DevOps tools such as **Docker**, **Git**, and **GitHub Actions**
+- 📜 Certified AWS Cloud Practitioner
 
 ### 💼 Work Experience
 - **Software Engineer** at **Olei LLC** (Jul 2024 - Present)
-  - Developed and maintained a member management application using **React.js**, **Supabase**, and **Material UI**.
-  - Refactored and optimized the codebase, improving performance, readability, and maintainability by 70%.
-  - Boosted the development speed by 50% using **TailwindCSS** and Material UI for faster, reusable styling.
-  - Designed and optimized the relational model for the user management module, ensuring database efficiency and structure.
+  - Developed and maintained a member management application using React.js, and Supabase, generating a revenue of $20,000.
+  - Refactored and optimized the codebase, improving data read times, responsiveness, maintainability, and code readability.
+  - Led the Technical Support team resolving over 20+ diverse technical issues, through troubleshooting and root cause analysis.
+  - Implemented ContextAPI to handle critical client-side state management, enhancing data flow and user experience.
+
 
 
 - **Software Engineer** at **Vugha Technological Solutions** (Jul 2021 - Jan 2022)
-  - Deployed and developed a rental management application using **Next.js** and **Firebase Firestore**.
-  - Built over 10 reusable front-end components and contributed to improving user navigation across 20+ UI screens.
+  - Deployed and developed a rental management application using Next.js, and Firebase, generating a revenue of INR 100,000.
+  - Worked with the front-end team to identify, design, and build 10+ reusable software components enhancing app modularity.
+  - Leveraged Figma to design 20+ UI screens in an iterative process, ensuring stakeholder feedback was integrated seamlessly.
 
-- **Market Research Analyst** at **Kaar Technologies** (Sep 2020 - Feb 2021)
-  - Analyzed datasets of over 10,000 leads, improving sales turnover through data-driven insights.
-  - Refined UI designs to boost CTA rates by 30%.
+
+- **Market Research Analyst** at **Kaar Technologies** (Nov 2020 - Feb 2021)
+  - Gathered data, created multiple datasets of over 10000 leads, and analyzed them to assess and increase inside sales turnover.
+  - Tested and refined the UI design of landing pages for a better user experience, leading to a 30% boost in CTA rates.
 
 ### 🌟 Featured Projects
 - **Finex**
