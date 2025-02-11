@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a focus on
 - **Software Engineer** at **Olei LLC** (Jul 2024 - Present)
   - Developed and maintained a member management application using React.js, and Supabase, generating a revenue of $20,000.
   - Refactored and optimized the codebase, improving data read times, responsiveness, maintainability, and code readability.
-  - Led the Technical Support team resolving over 20+ diverse technical issues, through troubleshooting and root cause analysis.
+  - Handled the Technical Support team resolving over 20+ diverse technical issues, through troubleshooting and root cause analysis.
   - Implemented ContextAPI to handle critical client-side state management, enhancing data flow and user experience.
 
 
