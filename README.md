@@ -11,22 +11,21 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a focus on
 
 ### 💼 Work Experience
 - **Software Engineer** at **Olei LLC** (Jul 2024 - Present)
-  - Developed and maintained a member management application using React.js, and Supabase, generating a revenue of $20,000.
-  - Refactored and optimized the codebase, improving data read times, responsiveness, maintainability, and code readability.
-  - Handled the Technical Support team resolving over 20+ diverse technical issues, through troubleshooting and root cause analysis.
-  - Implemented ContextAPI to handle critical client-side state management, enhancing data flow and user experience.
-
-
+  - Developed and maintained two SaaS applications using React.js, PostgreSQL, and Supabase, generating $50,000 annually.
+  - Engineered serverless backend workflows using AWS Lambda and Node.js to handle user onboarding and Twilio-based verifications, reducing the platform costs by 30%.
+  - Migrated the Olei Clinic App (4,000+ lines of code) from JavaScript to TypeScript, improving code reliability and readability.
+  - Secured the database by implementing Supabase RLS policies, preventing data leaks, and enforcing role-based access control.
+  - Led debugging and root cause analysis for 20+ issues, reducing production errors and improving system stability and UX.
 
 - **Software Engineer** at **Vugha Technological Solutions** (Jul 2021 - Jan 2022)
-  - Deployed and developed a rental management application using Next.js, and Firebase, generating a revenue of INR 100,000.
-  - Worked with the front-end team to identify, design, and build 10+ reusable software components enhancing app modularity.
+  - Built a rental management application using Next.js, Material UI, and Firebase, generating a revenue of INR 100,000.
+  - Defined the application’s route structure with file-based routing to improve scalability and reduce manual setup overhead.
   - Leveraged Figma to design 20+ UI screens in an iterative process, ensuring stakeholder feedback was integrated seamlessly.
 
-
 - **Market Research Analyst** at **Kaar Technologies** (Nov 2020 - Feb 2021)
-  - Gathered data, created multiple datasets of over 10000 leads, and analyzed them to assess and increase inside sales turnover.
+  - Gathered data, created multiple datasets of over 10,000 leads, and analyzed them to assess and increase inside sales turnover.
   - Tested and refined the UI design of landing pages for a better user experience, leading to a 30% boost in CTA rates.
+  - Collaborated with project stakeholders across 3 regions to gather data, which shaped the development of detailed case studies.
 
 ### 🌟 Featured Projects
 - **Finex**
@@ -45,6 +44,5 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a focus on
 
 ### 📫 Get in Touch
 - **Email:** [jayanthkk1998@gmail.com](mailto:jayanthkk1998@gmail.com)
-- **Portfolio:** [jayanth.io](https://jayanth.io/)
 - **LinkedIn:** [Jayanth Kodur Kumar](https://www.linkedin.com/in/jayanth-kodur-kumar-460b55254/)
 - **GitHub:** [Jayanth Kodur Kumar](https://github.com/jayanthkodurkumar)
