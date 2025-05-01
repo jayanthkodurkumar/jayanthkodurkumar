@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a focus on
 - 📜 Certified AWS Cloud Practitioner
 
 ### 💼 Work Experience
-- **Software Engineer** at **Olei LLC** (Jul 2024 - Present)
+- **Software Engineer** at **Olei Labs** (Jul 2024 - Present)
   - Developed and maintained two SaaS applications using React.js, PostgreSQL, and Supabase, generating $50,000 annually.
   - Engineered serverless backend workflows using AWS Lambda and Node.js to handle user onboarding and Twilio-based verifications, reducing the platform costs by 30%.
   - Migrated the Olei Clinic App (4,000+ lines of code) from JavaScript to TypeScript, improving code reliability and readability.
