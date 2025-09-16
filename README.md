@@ -1,52 +1,40 @@
-# Hi, I'm Jayanth Kodur Kumar! 👋
+**👋 Hey there, I'm Jayanth Kodur Kumar! 🚀**
 
-Welcome to my profile! I'm a passionate Software Development Engineer with a focus on **full-stack development** and a strong background in building **scalable, high-performance web applications**. I love solving complex problems and delivering impactful solutions using modern technologies.
+I'm a Full-Stack Software Engineer passionate about building scalable systems that solve real-world problems — and make people's lives easier.
 
-### 🚀 About Me
-- 🎓 **MS in Computer Science** from Indiana University - Bloomington (2022 - 2024)
-- 💻 Proficient in **JavaScript, Java, Python, SQL**, with expertise in **React.js, React Native, Node.js, Next.js, Fast API.**
-- 🛠️ Experienced in database management using **MySQL, MongoDB, PostgreSQL, Firebase** and cloud services like **AWS**
-- 📦 Skilled in containerization and DevOps tools such as **Docker**, **Git**, and **GitHub Actions**
-- 📜 Certified AWS Cloud Practitioner
+Right now, I'm working at **Olei Labs** as a Software Development Engineer, where I'm transforming healthcare through technology. I built a comprehensive Healthcare Management System from scratch that went from manual chaos to digital order, generating $1,500 in monthly revenue while keeping doctors and patients happy. When I'm not architecting microservices or optimizing CI/CD pipelines, I'm probably debugging something that "worked perfectly yesterday" or celebrating another successful AWS deployment. 
 
-### 💼 Work Experience
-- **Software Development Engineer** at **Olei Labs** (Jul 2024 - Present)
-  - Delivered a Clinic Practice Management System using Python FastAPI, React.js, Redis, and PostgreSQL, serving 500+ users.
-  - Architected a scalable monolithic REST API backend, containerized with Docker and deployed using AWS Elastic Beanstalk.
-  - Shipped an appointment booking feature with concurrency logic, replacing manual scheduling through 9 supporting REST APIs.
-  - Led and mentored a team of 4 UI interns, driving weekly sprints and stand-ups to ensure timely delivery of product milestones.
-  - Implemented JWT-based authorization, symmetric encryption, and enforced HTTPS for data security and HIPAA compliance.
+**💼 Work Experience:**
 
-- **Software Development Engineer** at **Vugha Technological Solutions** (Jul 2021 - Jan 2022)
-  - Developed a rental management application using Next.js, Material UI, and Vercel, generating a revenue of INR 100,000.
-  - Built frontend components with Firebase integration, eliminating the need for backend infrastructure and reducing platform costs.
-  - Leveraged Figma to design 20+ UI screens in an iterative process, ensuring stakeholder feedback was integrated seamlessly.
+**Software Development Engineer, Olei Labs**
+* Building healthcare systems that save lives — and sanity. One FastAPI endpoint at a time! 🏥💻
 
-- **Market Research Analyst** at **Kaar Technologies** (Sep 2020 - Feb 2021)
-  - Prepared and cleaned multiple datasets of 10,000+ leads to support sales analysis and field sales that improved sales turnover.
-  - Created campaign landing pages using LeadSquared, HTML, and CSS, achieving personalization and regional flexibility.
-  - Led the internal UI testing internally, iterating on design and layout for improved UX, resulting in a 30% increase in CTA rates.
+**Software Development Engineer, Vugha Technological Solutions** 
+* Crafted rental management magic with Next.js and Firebase, proving that good code can literally pay the bills. 💰🏠
 
-### 🌟 Featured Projects
+**Market Research Analyst, Kaar Technologies**
+* Turned 10,000+ leads into sales gold while making landing pages so good, CTR rates jumped 30%. 📈✨
 
-- **Acquire Board Game**
-  - Developed AI gameplay logic using **graph algorithms** and game trees, automating decision-making for an engaging board game experience.
+**🛠 Skills:**
+* **Languages & Frameworks:** Python, JavaScript, TypeScript, Java, FastAPI, React.js, Next.js, Node.js...
+* **Databases & Cloud:** PostgreSQL, MongoDB, MySQL, AWS, Docker, Firebase...  
+* **Tools & More:** GitHub Actions, Prisma, JWT, Docker, Figma, Postman...
+* And the secret skill of making microservices actually work together! 🤝
 
-- **Mentorage**
-  - A mentorship platform built with Next.js and Supabase (with RLS), enabling secure mentor-mentee session booking. Integrated Clerk for authentication and Stripe for payments, with webhook automation for booking confirmation and Resend for transactional emails.
-  - 
-- **Finex**
-  - A full-stack expense management app built with the **MERN stack**. Implemented JWT-based authentication and containerized using **Docker** for streamlined deployment.
+**🏆 Certifications & Achievements:**
+* **AWS Certified Cloud Practitioner (2025)** (Because someone has to keep those servers happy! ☁️)
+* Built a Healthcare Management System that actually makes healthcare management... manageable! 
+* Doubled deployment frequency because waiting is for people who don't have CI/CD pipelines 🚀
 
-- **SkyTours**
-  - Built an airline reservation system with **React.js** and **Node.js**, leading a team of 3 to develop the user-centric admin module and streamline administrative tasks.
+**💡 Cool Projects:**
+* **Expense Management App**: Docker-containerized financial sanity, deployed on AWS
+* **Mentorage**: Mentorship platform with Stripe integration (connecting minds, one booking at a time)
+* **Automated Acquire Board Game**: Object-oriented gaming logic that's more strategic than my career choices
 
-- **DoubtsFlow**
-  - A cross-platform mobile app designed to reduce course doubt response times by **50%**, offering a more efficient solution than email systems created using **React Native** and integrated with **Firebase Firestore** and **Firebase Auth** for real-time data management and authentication.
+**🌐 Connect:**
+* GitHub: [github.com/jayanthkodurkumar](https://github.com/jayanthkodurkumar)
+* LinkedIn: [linkedin.com/in/jayanthkodurkumar](https://linkedin.com/in/jayanthkodurkumar)
+* 📧 jayanthkk1998@gmail.com
+* 📞 +1-812-778-4663
 
-
-
-### 📫 Get in Touch
-- **Email:** [jayanthkk1998@gmail.com](mailto:jayanthkk1998@gmail.com)
-- **LinkedIn:** [Jayanth Kodur Kumar](https://www.linkedin.com/in/jayanthkodurkumar/)
-- **GitHub:** [Jayanth Kodur Kumar](https://github.com/jayanthkodurkumar)
+Thanks for stopping by! Feel free to explore my repos and don't hesitate to reach out if you want to chat about code, cloud architecture, or why microservices are both a blessing and a curse! 😄
