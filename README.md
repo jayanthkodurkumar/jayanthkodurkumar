@@ -30,7 +30,7 @@ Right now, I'm working at **Olei Labs** as a Software Development Engineer, wher
 
 ## 🏆 Certifications & Achievements
 
-* **AWS Certified Cloud Practitioner (2025)** (Because someone has to keep those servers happy! ☁️)
+* **AWS Certified Solutions Architect (2025)** (Because someone has to keep those servers happy! ☁️)
 * Built a Healthcare Management System that actually makes healthcare management... manageable! 
 * Doubled deployment frequency because waiting is for people who don't have CI/CD pipelines 🚀
 
