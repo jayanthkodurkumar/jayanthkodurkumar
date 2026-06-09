@@ -40,10 +40,10 @@ Right now, I'm working at **Olei Labs** as a Software Development Engineer, wher
 - Reduced PostgreSQL write overhead by ~99% using batch processing
 - Zero data loss with at-least-once delivery, idempotent writes, and DLQ handling 🔒
 
-**Wallet Microservices Platform** *(FastAPI, PostgreSQL, RabbitMQ, Docker, Google OAuth 2.0)*
-- Digital wallet system with 3 independent microservices, each with its own PostgreSQL database
-- Hybrid REST + RabbitMQ inter-service communication — because loose coupling is a love language 🤝
-
+**FloorMan – AI-Powered Industrial Safety Assistant** *(FastAPI, React, TypeScript, Pinecone, Supabase, Docker)*
+- Full-stack RAG chatbot enabling workers to query industrial safety manuals in natural language with source-cited responses
+- Semantic retrieval pipeline using local embeddings, vector search, and LLM-powered answer generation from PDF knowledge bases 🤖
+  
 ---
 
 ## 🏆 Certifications
